@@ -34,5 +34,7 @@
   <a href="https://www.instagram.com/arturxh.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/fallencz7" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/zrU7UKF2" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  
-  <img width="20%" align="right" Alt="fallen-gif" src="https://i.pinimg.com/736x/62/10/e7/6210e786aaa9d0079e0e2525659535c2.jpg"
+  
+  <img width="20%" align="right" Alt="fallen-gif" src="https://i.pinimg.com/736x/57/e1/eb/57e1ebfb1407a45028c495e887852469.jpg">
+  
 </div>
